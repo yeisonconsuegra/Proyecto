@@ -1,0 +1,100 @@
+body
+{
+	padding: 0;
+	margin: 0;
+}
+h1
+{
+	color: #fff;
+	width: 87.4%;
+	margin: 0;
+	text-align: center;
+	display: inline-block;
+	background-color: #333;
+	padding-left: 170px;
+}
+.list-c
+{
+	width: 20%;
+	background-color: #333;
+	height: 667px;
+	display: inline-block;
+}
+.img
+{
+	margin-left: 50px;
+}
+ul
+{
+	display: inline-block;
+}
+ul li
+{
+	list-style: none;
+	padding: 3px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+}
+ul li a
+{
+	text-decoration: none;
+	font-size: 21px;
+	color: #ddd;
+}
+ul li a:hover
+{
+	color: #000;
+}
+p
+{
+	margin-top: 100px;
+	margin-left: 20px;
+	font-size: 18px;
+}
+form
+{
+	width: 80%;
+	float: right;
+	text-align: center;
+	margin-top: 100px;
+	display: inline-block;
+}
+.lgris
+{
+	font-size: 22px;
+}
+.form-group
+{
+	width: 20%;
+	margin: auto
+}
+.form-control
+{
+	width: 100%;
+	padding: 7px 4px;
+	outline: none;
+	border-radius: 10px;
+	background-color: #373779;
+	color: #fff;
+	margin-bottom: 25px;
+
+}
+.btn
+{
+	background-color: #f9f982;
+	padding: 4px 10px;
+	border-radius: 10px;
+}
+.btn:hover
+{
+	background-color: #676733;
+}
+#divconsulta2
+{
+	width: 50%;
+	float: left;
+}
+h3
+{
+	display: inline-block;
+}
